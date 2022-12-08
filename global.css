@@ -1,0 +1,40 @@
+:root {
+    /* fonts */
+    --font-open-sans: "Open Sans";
+    --font-ibm-plex-sans-hebrew: "IBM Plex Sans Hebrew";
+    --font-hammersmith-one: "Hammersmith One";
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-2xs: 2.3px;
+    --font-size-xs: 5px;
+    --font-size-sm: 6px;
+    --font-size-base: 7px;
+    --font-size-lg: 8px;
+    --font-size-xl: 9px;
+    --font-size-2xl: 10px;
+    --font-size-3xl: 12px;
+  
+    /* Colors */
+    --color-white: #EAEDFD;
+    --color-gray-100: #b1d2ff;
+    --color-gray-200: #a3a3a3;
+    --color-gray-300: #908e8e;
+    --color-gray-400: #797878;
+    --color-violet-100: #2d85fd;
+    --color-black: #000;
+    --color-brown: #ff8181;
+    --color-green-100: #00d961;
+    --color-green-200: #01b652;
+    --color-indigo: #0045a1;
+    --color-pink: #cabcfe;
+  
+    /* border radiuses */
+    --br-2xs: 1px;
+    --br-xs: 3px;
+    --br-sm: 6px;
+    --br-md: 8px;
+    --br-lg: 14px;
+    --br-xl: 20px;
+  }
+  
